@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApplicationForMobven</string>
+    <string name="home">Anasayfa</string>
+    <string name="camera">Kamera</string>
+    <string name="settings">Ayarlar</string>
+    <string name="minimum_degree">En Düşük Sıcaklık</string>
+    <string name="maximum_degree">En Yüksek Sıcaklık</string>
+    <string name="battery">Pil Durumu:</string>
+    <string name="wifi">Wifi</string>
+    <string name="save">Kaydet</string>
+    <string name="select_city">Şehir seçiniz:</string>
+    <string name="take_photo">Fotoğraf çek</string>
+</resources>

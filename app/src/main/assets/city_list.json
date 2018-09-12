@@ -1,0 +1,6737 @@
+﻿[
+  {
+    "id": 296173,
+    "coord": {
+      "lon": 44.287159,
+      "lat": 37.57362
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312888
+    },
+    "name": "Yuksekova",
+    "stat": {
+      "level": 1,
+      "population": 71729
+    },
+    "stations": [
+      {
+        "id": 7056,
+        "dist": 69,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 296562,
+    "coord": {
+      "lon": 34.80444,
+      "lat": 39.82
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 296560
+    },
+    "name": "Yozgat",
+    "stat": {
+      "level": 1,
+      "population": 87881
+    },
+    "zoom": 9
+  },
+  {
+    "id": 296832,
+    "coord": {
+      "lon": 40.825581,
+      "lat": 37.3405
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304794
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ye%C5%9Filli"
+      },
+      {
+        "tr": "Yeşilli"
+      }
+    ],
+    "name": "Yesilli",
+    "stat": {
+      "level": 1,
+      "population": 32072
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 82,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 70,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 47,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 296852,
+    "coord": {
+      "lon": 36.200001,
+      "lat": 36.955891
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312394
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Erzin%2C_Turkey"
+      },
+      {
+        "ru": "Эрзин"
+      }
+    ],
+    "name": "Erzin",
+    "stat": {
+      "level": 1,
+      "population": 26316
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 81,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 68,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 296895,
+    "coord": {
+      "lon": 34.46722,
+      "lat": 39.638062
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 296560
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Yerk%C3%B6y"
+      }
+    ],
+    "name": "Yerkoy",
+    "stat": {
+      "level": 1,
+      "population": 35294
+    },
+    "zoom": 8
+  },
+  {
+    "id": 297090,
+    "coord": {
+      "lon": 27.26778,
+      "lat": 37.375561
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "langs": [
+      {
+        "en": "Didim"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Didim"
+      },
+      {
+        "ru": "Дидимы"
+      },
+      {
+        "tr": "Yenihisar"
+      }
+    ],
+    "name": "Didim",
+    "stat": {
+      "level": 1,
+      "population": 26000
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 47,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 37,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 297564,
+    "coord": {
+      "lon": 28.14279,
+      "lat": 37.34026
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "name": "Yatagan",
+    "stat": {
+      "level": 1,
+      "population": 19020
+    },
+    "stations": [
+      {
+        "id": 6083,
+        "dist": 43,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 297789,
+    "coord": {
+      "lon": 31.17778,
+      "lat": 38.295559
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311071
+    },
+    "name": "Yalvac",
+    "stat": {
+      "level": 1,
+      "population": 39145
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 86,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 297917,
+    "coord": {
+      "lon": 35.35704,
+      "lat": 38.10228
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 308463
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Yahyal%C4%B1"
+      },
+      {
+        "ru": "Яхьялы"
+      }
+    ],
+    "name": "Yahyali",
+    "stat": {
+      "level": 1,
+      "population": 25019
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 75,
+        "kf": 1
+      },
+      {
+        "id": 6043,
+        "dist": 98,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 298033,
+    "coord": {
+      "lon": 39.763062,
+      "lat": 37.235279
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "name": "Viransehir",
+    "stat": {
+      "level": 1,
+      "population": 154163
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 81,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 298088,
+    "coord": {
+      "lon": 41.455929,
+      "lat": 39.17321
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304041
+    },
+    "name": "Varto",
+    "stat": {
+      "level": 1,
+      "population": 18691
+    },
+    "stations": [
+      {
+        "id": 6066,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 298117,
+    "coord": {
+      "lon": 43.38311,
+      "lat": 38.49239
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 298113
+    },
+    "name": "Van",
+    "stat": {
+      "level": 1,
+      "population": 371713
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 5,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 298230,
+    "coord": {
+      "lon": 39.702129,
+      "lat": 39.71011
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 315372
+    },
+    "name": "Cimin",
+    "stat": {
+      "level": 1,
+      "population": 39591
+    },
+    "stations": [
+      {
+        "id": 6065,
+        "dist": 14,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 298299,
+    "coord": {
+      "lon": 29.4058,
+      "lat": 38.673512
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 298298
+    },
+    "name": "Usak",
+    "stat": {
+      "level": 1,
+      "population": 152862
+    },
+    "zoom": 8
+  },
+  {
+    "id": 298316,
+    "coord": {
+      "lon": 26.76403,
+      "lat": 38.322922
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Urla",
+    "stat": {
+      "level": 1,
+      "population": 45199
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 34,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 298326,
+    "coord": {
+      "lon": 34.91198,
+      "lat": 38.629601
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 303830
+    },
+    "name": "Urgub",
+    "stat": {
+      "level": 1,
+      "population": 16642
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 53,
+        "kf": 1
+      },
+      {
+        "id": 6043,
+        "dist": 53,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 298333,
+    "coord": {
+      "lon": 38.793919,
+      "lat": 37.16708
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 298332
+    },
+    "name": "Sanliurfa",
+    "stat": {
+      "level": 1,
+      "population": 449549
+    },
+    "zoom": 7
+  },
+  {
+    "id": 298806,
+    "coord": {
+      "lon": 27.699699,
+      "lat": 38.495331
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "name": "Turgutlu",
+    "stat": {
+      "level": 1,
+      "population": 103292
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 52,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 298846,
+    "coord": {
+      "lon": 39.547112,
+      "lat": 39.108292
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 298845
+    },
+    "name": "Tunceli",
+    "stat": {
+      "level": 1,
+      "population": 29062
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 60,
+        "kf": 1
+      },
+      {
+        "id": 6065,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 298935,
+    "coord": {
+      "lon": 27.36223,
+      "lat": 38.151901
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "langs": [
+      {
+        "ru": "Торбалы"
+      },
+      {
+        "tr": "Torbalı"
+      }
+    ],
+    "name": "Torbali",
+    "stat": {
+      "level": 1,
+      "population": 50303
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 23,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 299137,
+    "coord": {
+      "lon": 27.735081,
+      "lat": 38.088772
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tire%2C_%C4%B0zmir"
+      },
+      {
+        "ota": "تیره"
+      }
+    ],
+    "name": "Tire",
+    "stat": {
+      "level": 1,
+      "population": 47220
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 85,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 55,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 93,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 299445,
+    "coord": {
+      "lon": 30.527229,
+      "lat": 36.501701
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 323776
+    },
+    "name": "Tekirova",
+    "stat": {
+      "level": 1,
+      "population": 20000
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 50,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 299545,
+    "coord": {
+      "lon": 29.498659,
+      "lat": 39.54237
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 305267
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tav%C5%9Fanl%C4%B1"
+      }
+    ],
+    "name": "Tavsanli",
+    "stat": {
+      "level": 1,
+      "population": 52182
+    },
+    "stations": [
+      {
+        "id": 6057,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 299582,
+    "coord": {
+      "lon": 42.28167,
+      "lat": 38.506672
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321022
+    },
+    "name": "Tatvan",
+    "stat": {
+      "level": 1,
+      "population": 73222
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 299817,
+    "coord": {
+      "lon": 34.878399,
+      "lat": 36.918758
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 311728
+    },
+    "name": "Tarsus",
+    "stat": {
+      "level": 1,
+      "population": 256482
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 36,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 49,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 299900,
+    "coord": {
+      "lon": 35.553799,
+      "lat": 38.6908
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 308463
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Talas%2C_Turkey"
+      },
+      {
+        "ru": "Талас"
+      }
+    ],
+    "name": "Talas",
+    "stat": {
+      "level": 1,
+      "population": 36890
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 9,
+        "kf": 1
+      }
+    ],
+    "zoom": 12
+  },
+  {
+    "id": 300058,
+    "coord": {
+      "lon": 28.15778,
+      "lat": 39.913609
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Susurluk"
+      }
+    ],
+    "name": "Susurluk",
+    "stat": {
+      "level": 1,
+      "population": 24816
+    },
+    "zoom": 9
+  },
+  {
+    "id": 300075,
+    "coord": {
+      "lon": 38.42495,
+      "lat": 36.976139
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 298332
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Suru%C3%A7"
+      },
+      {
+        "ru": "Суруч"
+      }
+    ],
+    "name": "Suruc",
+    "stat": {
+      "level": 1,
+      "population": 46694
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 83,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 300352,
+    "coord": {
+      "lon": 35.185959,
+      "lat": 39.81012
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 296560
+    },
+    "name": "Sorgun",
+    "stat": {
+      "level": 1,
+      "population": 62862
+    },
+    "zoom": 9
+  },
+  {
+    "id": 300371,
+    "coord": {
+      "lon": 27.609449,
+      "lat": 39.185539
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "langs": [
+      {
+        "de": "Soma"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Soma%2C_Manisa"
+      },
+      {
+        "ru": "Сомы"
+      }
+    ],
+    "name": "Soma",
+    "stat": {
+      "level": 1,
+      "population": 65934
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 88,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 300377,
+    "coord": {
+      "lon": 41.029308,
+      "lat": 38.963379
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321079
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Solhan"
+      }
+    ],
+    "name": "Solhan",
+    "stat": {
+      "level": 1,
+      "population": 15303
+    },
+    "zoom": 9
+  },
+  {
+    "id": 300399,
+    "coord": {
+      "lon": 27.406139,
+      "lat": 37.748199
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "name": "Soeke",
+    "stat": {
+      "level": 1,
+      "population": 68230
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 44,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 300614,
+    "coord": {
+      "lon": 39.316669,
+      "lat": 37.75502
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "name": "Siverek",
+    "stat": {
+      "level": 1,
+      "population": 175341
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 94,
+        "kf": 1
+      },
+      {
+        "id": 6064,
+        "dist": 78,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 300619,
+    "coord": {
+      "lon": 37.016109,
+      "lat": 39.748329
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 300617
+    },
+    "name": "Sivas",
+    "stat": {
+      "level": 1,
+      "population": 264022
+    },
+    "stations": [
+      {
+        "id": 6036,
+        "dist": 12,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 300640,
+    "coord": {
+      "lon": 42.459438,
+      "lat": 37.522781
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443189
+    },
+    "name": "Sirnak",
+    "stat": {
+      "level": 1,
+      "population": 52743
+    },
+    "zoom": 9
+  },
+  {
+    "id": 300791,
+    "coord": {
+      "lon": 28.977671,
+      "lat": 39.0882
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 305267
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Simav"
+      }
+    ],
+    "name": "Simav",
+    "stat": {
+      "level": 1,
+      "population": 34909
+    },
+    "zoom": 8
+  },
+  {
+    "id": 300796,
+    "coord": {
+      "lon": 41.00806,
+      "lat": 38.141941
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 316540
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Silvan%2C_Turkey"
+      },
+      {
+        "ru": "Сильван"
+      },
+      {
+        "tr": "Silvan"
+      }
+    ],
+    "name": "Silvan",
+    "stat": {
+      "level": 1,
+      "population": 65956
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 25,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 300797,
+    "coord": {
+      "lon": 42.46944,
+      "lat": 37.249722
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 443189
+    },
+    "name": "Silopi",
+    "stat": {
+      "level": 1,
+      "population": 74798
+    },
+    "zoom": 10
+  },
+  {
+    "id": 300808,
+    "coord": {
+      "lon": 33.934441,
+      "lat": 36.377781
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 311728
+    },
+    "langs": [
+      {
+        "en": "Silifke"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Silifke"
+      },
+      {
+        "ru": "Силифке"
+      },
+      {
+        "tr": "Silifke"
+      }
+    ],
+    "name": "Silifke",
+    "stat": {
+      "level": 1,
+      "population": 75315
+    },
+    "zoom": 9
+  },
+  {
+    "id": 300822,
+    "coord": {
+      "lon": 41.94025,
+      "lat": 37.932621
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 300821
+    },
+    "name": "Siirt",
+    "stat": {
+      "level": 1,
+      "population": 114034
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 301010,
+    "coord": {
+      "lon": 31.84527,
+      "lat": 37.419258
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Seydi%C5%9Fehir"
+      }
+    ],
+    "name": "Seydisehir",
+    "stat": {
+      "level": 1,
+      "population": 51089
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 88,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 301101,
+    "coord": {
+      "lon": 31.09889,
+      "lat": 36.916939
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "name": "Serik",
+    "stat": {
+      "level": 1,
+      "population": 36925
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 26,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 301116,
+    "coord": {
+      "lon": 33.538601,
+      "lat": 38.939251
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 323784
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C5%9Eerefliko%C3%A7hisar"
+      },
+      {
+        "tr": "Koçhisar"
+      }
+    ],
+    "name": "Sereflikochisar",
+    "stat": {
+      "level": 1,
+      "population": 44101
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 87,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 301172,
+    "coord": {
+      "lon": 30.548611,
+      "lat": 38.104439
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311071
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Senirkent"
+      }
+    ],
+    "name": "Senirkent",
+    "stat": {
+      "level": 1,
+      "population": 15919
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 31,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 301209,
+    "coord": {
+      "lon": 44.5742,
+      "lat": 37.305141
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312888
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C5%9Eemdinli"
+      }
+    ],
+    "name": "Semdinli",
+    "stat": {
+      "level": 1,
+      "population": 18978
+    },
+    "stations": [
+      {
+        "id": 7056,
+        "dist": 59,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 301256,
+    "coord": {
+      "lon": 27.36849,
+      "lat": 37.95137
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Sel%C3%A7uk"
+      },
+      {
+        "ru": "Сельчук"
+      }
+    ],
+    "name": "Selcuk",
+    "stat": {
+      "level": 1,
+      "population": 29101
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 49,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 41,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 301350,
+    "coord": {
+      "lon": 26.83902,
+      "lat": 38.196861
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Seferihisar",
+    "stat": {
+      "level": 1,
+      "population": 19596
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 29,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 301537,
+    "coord": {
+      "lon": 36.40976,
+      "lat": 39.35186
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 300617
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C5%9Eark%C4%B1%C5%9Fla"
+      }
+    ],
+    "name": "Sarkisla",
+    "stat": {
+      "level": 1,
+      "population": 23800
+    },
+    "stations": [
+      {
+        "id": 6036,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 301539,
+    "coord": {
+      "lon": 31.36639,
+      "lat": 38.079441
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311071
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C5%9Earkikaraa%C4%9Fa%C3%A7"
+      }
+    ],
+    "name": "Sarkikaraagac",
+    "stat": {
+      "level": 1,
+      "population": 32771
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 301827,
+    "coord": {
+      "lon": 28.925159,
+      "lat": 37.92448
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 317106
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Sarayk%C3%B6y"
+      }
+    ],
+    "name": "Saraykoy",
+    "stat": {
+      "level": 1,
+      "population": 18937
+    },
+    "zoom": 10
+  },
+  {
+    "id": 301911,
+    "coord": {
+      "lon": 30.269461,
+      "lat": 38.464722
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325302
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Sand%C4%B1kl%C4%B1"
+      },
+      {
+        "ru": "Сандикли"
+      }
+    ],
+    "name": "Sandikli",
+    "stat": {
+      "level": 1,
+      "population": 42981
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 67,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 302043,
+    "coord": {
+      "lon": 28.147739,
+      "lat": 38.482578
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "name": "Salihli",
+    "stat": {
+      "level": 1,
+      "population": 88906
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 88,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 302355,
+    "coord": {
+      "lon": 36.567219,
+      "lat": 36.269169
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312394
+    },
+    "name": "Reyhanli",
+    "stat": {
+      "level": 1,
+      "population": 56995
+    },
+    "stations": [
+      {
+        "id": 7165,
+        "dist": 59,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 302525,
+    "coord": {
+      "lon": 32.141319,
+      "lat": 39.57716
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323784
+    },
+    "name": "Polatli",
+    "stat": {
+      "level": 1,
+      "population": 93262
+    },
+    "stations": [
+      {
+        "id": 6022,
+        "dist": 95,
+        "kf": 1
+      },
+      {
+        "id": 27749,
+        "dist": 55,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 302800,
+    "coord": {
+      "lon": 37.29961,
+      "lat": 37.486851
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 310858
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Pazarc%C4%B1k"
+      },
+      {
+        "ru": "Пазарджик"
+      }
+    ],
+    "name": "Pazarcik",
+    "stat": {
+      "level": 1,
+      "population": 23850
+    },
+    "stations": [
+      {
+        "id": 7827,
+        "dist": 31,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 302819,
+    "coord": {
+      "lon": 42.863441,
+      "lat": 39.233608
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325163
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Patnos"
+      }
+    ],
+    "name": "Patnos",
+    "stat": {
+      "level": 1,
+      "population": 87451
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 93,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 302824,
+    "coord": {
+      "lon": 41.67635,
+      "lat": 39.980309
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 315367
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Pasinler%2C_Erzurum"
+      }
+    ],
+    "name": "Pasinler",
+    "stat": {
+      "level": 1,
+      "population": 24553
+    },
+    "stations": [
+      {
+        "id": 6066,
+        "dist": 43,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 303195,
+    "coord": {
+      "lon": 36.24778,
+      "lat": 37.074169
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443183
+    },
+    "name": "Osmaniye",
+    "stat": {
+      "level": 1,
+      "population": 202837
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 86,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 73,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 303290,
+    "coord": {
+      "lon": 34.038658,
+      "lat": 38.737282
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 443185
+    },
+    "name": "Ortakoy",
+    "stat": {
+      "level": 1,
+      "population": 31144
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 39,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 303354,
+    "coord": {
+      "lon": 28.77083,
+      "lat": 36.829441
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ortaca"
+      }
+    ],
+    "name": "Ortaca",
+    "stat": {
+      "level": 1,
+      "population": 19741
+    },
+    "stations": [
+      {
+        "id": 6058,
+        "dist": 13,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 303700,
+    "coord": {
+      "lon": 27.969549,
+      "lat": 38.227798
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Hypaepa",
+    "stat": {
+      "level": 1,
+      "population": 67153
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 303750,
+    "coord": {
+      "lon": 41.2178,
+      "lat": 37.077801
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304794
+    },
+    "langs": [
+      {
+        "de": "Nisibis"
+      },
+      {
+        "el": "Αντιόχεια"
+      },
+      {
+        "en": "Nisibis"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Nusaybin"
+      },
+      {
+        "nl": "Nisibis"
+      },
+      {
+        "pl": "Nisibis"
+      },
+      {
+        "ru": "Нузайбин"
+      },
+      {
+        "tr": "Nusaybin"
+      }
+    ],
+    "name": "Nusaybin",
+    "stat": {
+      "level": 1,
+      "population": 88977
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 94,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 7,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 303798,
+    "coord": {
+      "lon": 37.79417,
+      "lat": 37.00972
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 314829
+    },
+    "name": "Nizip",
+    "stat": {
+      "level": 1,
+      "population": 82308
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 28,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 303827,
+    "coord": {
+      "lon": 34.679352,
+      "lat": 37.965832
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 303826
+    },
+    "langs": [
+      {
+        "de": "Niğde"
+      },
+      {
+        "en": "Niğde"
+      },
+      {
+        "fr": "Niğde"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Ni%C4%9Fde"
+      },
+      {
+        "pl": "Niğde"
+      },
+      {
+        "ru": "Нигде"
+      },
+      {
+        "tr": "Niğde"
+      }
+    ],
+    "name": "Nigde",
+    "stat": {
+      "level": 1,
+      "population": 91039
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 62,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 303831,
+    "coord": {
+      "lon": 34.712219,
+      "lat": 38.625
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 303830
+    },
+    "name": "Nevsehir",
+    "stat": {
+      "level": 1,
+      "population": 75527
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 37,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 303873,
+    "coord": {
+      "lon": 28.32225,
+      "lat": 37.916309
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "name": "Nazilli",
+    "stat": {
+      "level": 1,
+      "population": 119370
+    },
+    "stations": [
+      {
+        "id": 6083,
+        "dist": 94,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 304013,
+    "coord": {
+      "lon": 33.43885,
+      "lat": 36.64389
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 311728
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Mut%2C_Mersin"
+      }
+    ],
+    "name": "Mut",
+    "stat": {
+      "level": 1,
+      "population": 49397
+    },
+    "zoom": 8
+  },
+  {
+    "id": 304081,
+    "coord": {
+      "lon": 41.506931,
+      "lat": 38.745251
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 304041
+    },
+    "langs": [
+      {
+        "de": "Muş"
+      },
+      {
+        "eo": "Muş"
+      },
+      {
+        "fr": "Muş"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Mu%C5%9F"
+      },
+      {
+        "pl": "Muş"
+      },
+      {
+        "ru": "Муш"
+      },
+      {
+        "tr": "Muş"
+      }
+    ],
+    "name": "Mus",
+    "stat": {
+      "level": 1,
+      "population": 82536
+    },
+    "stations": [
+      {
+        "id": 6072,
+        "dist": 13,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 304184,
+    "coord": {
+      "lon": 28.366501,
+      "lat": 37.218071
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 304183
+    },
+    "name": "Mugla",
+    "stat": {
+      "level": 1,
+      "population": 48183
+    },
+    "stations": [
+      {
+        "id": 5693,
+        "dist": 93,
+        "kf": 1
+      },
+      {
+        "id": 6058,
+        "dist": 67,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 62,
+        "kf": 1
+      },
+      {
+        "id": 33061,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 304196,
+    "coord": {
+      "lon": 34.382858,
+      "lat": 39.06147
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 307513
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Mucur"
+      }
+    ],
+    "name": "Mucur",
+    "stat": {
+      "level": 1,
+      "population": 16522
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 304355,
+    "coord": {
+      "lon": 27.78389,
+      "lat": 37.316391
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "name": "Milas",
+    "stat": {
+      "level": 1,
+      "population": 43193
+    },
+    "stations": [
+      {
+        "id": 6083,
+        "dist": 13,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 304382,
+    "coord": {
+      "lon": 41.33934,
+      "lat": 37.424702
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304794
+    },
+    "name": "Midyat",
+    "stat": {
+      "level": 1,
+      "population": 76268
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 59,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 46,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 304531,
+    "coord": {
+      "lon": 34.61792,
+      "lat": 36.795261
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 311728
+    },
+    "langs": [
+      {
+        "cs": "Mersin"
+      },
+      {
+        "de": "Mersin"
+      },
+      {
+        "el": "Μερσίνη"
+      },
+      {
+        "en": "Mersin"
+      },
+      {
+        "eo": "Mersin"
+      },
+      {
+        "es": "Mersin"
+      },
+      {
+        "fr": "Mersin"
+      },
+      {
+        "it": "Mersin"
+      },
+      {
+        "ku": "Mersîn"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Mersin"
+      },
+      {
+        "nl": "Mersin"
+      },
+      {
+        "ru": "Мерсин"
+      },
+      {
+        "sv": "Mersin"
+      },
+      {
+        "tr": "Mersin"
+      }
+    ],
+    "name": "Mercin",
+    "stat": {
+      "level": 1,
+      "population": 537842
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 61,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 75,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 304612,
+    "coord": {
+      "lon": 27.06938,
+      "lat": 38.60754
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Menemen",
+    "stat": {
+      "level": 1,
+      "population": 53489
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 36,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 304782,
+    "coord": {
+      "lon": 28.27417,
+      "lat": 36.855
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "langs": [
+      {
+        "ar": "مارماريس"
+      },
+      {
+        "bg": "Мармарис"
+      },
+      {
+        "de": "Marmaris"
+      },
+      {
+        "en": "Marmaris"
+      },
+      {
+        "es": "Marmaris"
+      },
+      {
+        "fi": "Marmaris"
+      },
+      {
+        "he": "מרמאריס"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Marmaris"
+      },
+      {
+        "nl": "Marmaris"
+      },
+      {
+        "pl": "Marmaris"
+      },
+      {
+        "ru": "Мармарис"
+      },
+      {
+        "sv": "Marmaris"
+      },
+      {
+        "tr": "Marmaris"
+      }
+    ],
+    "name": "Marmaris",
+    "stat": {
+      "level": 1,
+      "population": 33731
+    },
+    "stations": [
+      {
+        "id": 6058,
+        "dist": 48,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 304797,
+    "coord": {
+      "lon": 40.743568,
+      "lat": 37.313091
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 304794
+    },
+    "langs": [
+      {
+        "ca": "Mardin"
+      },
+      {
+        "de": "Mardin"
+      },
+      {
+        "en": "Mardin"
+      },
+      {
+        "eo": "Mardin"
+      },
+      {
+        "fr": "Mardin"
+      },
+      {
+        "ja": "マルディン"
+      },
+      {
+        "ku": "Mêrdin"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Mardin"
+      },
+      {
+        "pl": "Mardin"
+      },
+      {
+        "ru": "Мардин"
+      },
+      {
+        "sv": "Mardin"
+      },
+      {
+        "tr": "Mardin"
+      }
+    ],
+    "name": "Mardin",
+    "stat": {
+      "level": 1,
+      "population": 71373
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 80,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 76,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 51,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 304827,
+    "coord": {
+      "lon": 27.42646,
+      "lat": 38.612019
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 304825
+    },
+    "name": "Manisa",
+    "stat": {
+      "level": 1,
+      "population": 243971
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 42,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 304854,
+    "coord": {
+      "lon": 31.44306,
+      "lat": 36.786671
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "name": "Manavgat",
+    "stat": {
+      "level": 1,
+      "population": 96052
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 58,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 304916,
+    "coord": {
+      "lon": 42.540081,
+      "lat": 39.142651
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304041
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Malazgirt"
+      }
+    ],
+    "name": "Malazgirt",
+    "stat": {
+      "level": 1,
+      "population": 26108
+    },
+    "zoom": 10
+  },
+  {
+    "id": 304922,
+    "coord": {
+      "lon": 38.316669,
+      "lat": 38.350182
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 304919
+    },
+    "name": "Malatya",
+    "stat": {
+      "level": 1,
+      "population": 441805
+    },
+    "stations": [
+      {
+        "id": 6038,
+        "dist": 22,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 305089,
+    "coord": {
+      "lon": 40.647499,
+      "lat": 38.459171
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 316540
+    },
+    "name": "Lice",
+    "stat": {
+      "level": 1,
+      "population": 16336
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 74,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 305268,
+    "coord": {
+      "lon": 29.98333,
+      "lat": 39.424171
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 305267
+    },
+    "name": "Kutahya",
+    "stat": {
+      "level": 1,
+      "population": 185008
+    },
+    "stations": [
+      {
+        "id": 6057,
+        "dist": 99,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 305359,
+    "coord": {
+      "lon": 27.256599,
+      "lat": 37.855621
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "name": "Kusadasi",
+    "stat": {
+      "level": 1,
+      "population": 63177
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 35,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 49,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 305532,
+    "coord": {
+      "lon": 41.70282,
+      "lat": 37.92717
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 300821
+    },
+    "name": "Kurtalan",
+    "stat": {
+      "level": 1,
+      "population": 32114
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 50,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 305680,
+    "coord": {
+      "lon": 30.30302,
+      "lat": 36.325729
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 323776
+    },
+    "name": "Beykonak",
+    "stat": {
+      "level": 1,
+      "population": 30339
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 77,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 305742,
+    "coord": {
+      "lon": 33.079891,
+      "lat": 39.095139
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Kulu%2C_Konya"
+      }
+    ],
+    "name": "Kulu",
+    "stat": {
+      "level": 1,
+      "population": 47037
+    },
+    "stations": [
+      {
+        "id": 27749,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 305750,
+    "coord": {
+      "lon": 41.012218,
+      "lat": 38.497219
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 316540
+    },
+    "langs": [
+      {
+        "tr": "Kulp"
+      }
+    ],
+    "name": "Kulp",
+    "stat": {
+      "level": 1,
+      "population": 26569
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 98,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 64,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 305810,
+    "coord": {
+      "lon": 28.649759,
+      "lat": 38.54726
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "name": "Kula",
+    "stat": {
+      "level": 1,
+      "population": 31100
+    },
+    "zoom": 10
+  },
+  {
+    "id": 306041,
+    "coord": {
+      "lon": 41.488529,
+      "lat": 38.193829
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 443186
+    },
+    "langs": [
+      {
+        "tr": "Kozluk"
+      }
+    ],
+    "name": "Kozluk",
+    "stat": {
+      "level": 1,
+      "population": 29502
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 43,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 306112,
+    "coord": {
+      "lon": 35.815731,
+      "lat": 37.45517
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325361
+    },
+    "name": "Kozan",
+    "stat": {
+      "level": 1,
+      "population": 88115
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 71,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 61,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 306207,
+    "coord": {
+      "lon": 39.868061,
+      "lat": 38.72139
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 315807
+    },
+    "name": "Kovancilar",
+    "stat": {
+      "level": 1,
+      "population": 22976
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 51,
+        "kf": 1
+      },
+      {
+        "id": 6064,
+        "dist": 96,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 306474,
+    "coord": {
+      "lon": 30.19565,
+      "lat": 37.06498
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "name": "Korkuteli",
+    "stat": {
+      "level": 1,
+      "population": 20465
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 56,
+        "kf": 1
+      },
+      {
+        "id": 6081,
+        "dist": 90,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 306571,
+    "coord": {
+      "lon": 32.484638,
+      "lat": 37.871349
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 306569
+    },
+    "name": "Konya",
+    "stat": {
+      "level": 1,
+      "population": 875530
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 13,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 307084,
+    "coord": {
+      "lon": 40.584999,
+      "lat": 37.193329
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304794
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/K%C4%B1z%C4%B1ltepe"
+      },
+      {
+        "ru": "Кызылтепе"
+      }
+    ],
+    "name": "Kiziltepe",
+    "stat": {
+      "level": 1,
+      "population": 150174
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 85,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 94,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 56,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 307211,
+    "coord": {
+      "lon": 29.26639,
+      "lat": 37.581039
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 317106
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Serinhisar"
+      }
+    ],
+    "name": "Serinhisar",
+    "stat": {
+      "level": 1,
+      "population": 17169
+    },
+    "zoom": 10
+  },
+  {
+    "id": 307515,
+    "coord": {
+      "lon": 34.163891,
+      "lat": 39.145828
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 307513
+    },
+    "name": "Kirsehir",
+    "stat": {
+      "level": 1,
+      "population": 94336
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 78,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 307623,
+    "coord": {
+      "lon": 27.66925,
+      "lat": 39.10638
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/K%C4%B1rka%C4%9Fa%C3%A7"
+      }
+    ],
+    "name": "Kirkagac",
+    "stat": {
+      "level": 1,
+      "population": 27053
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 307654,
+    "coord": {
+      "lon": 33.50639,
+      "lat": 39.84528
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443188
+    },
+    "name": "Kirikkale",
+    "stat": {
+      "level": 1,
+      "population": 211138
+    },
+    "stations": [
+      {
+        "id": 6022,
+        "dist": 53,
+        "kf": 1
+      },
+      {
+        "id": 27749,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 307657,
+    "coord": {
+      "lon": 36.357552,
+      "lat": 36.49939
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312394
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/K%C4%B1r%C4%B1khan"
+      }
+    ],
+    "name": "Kirikhan",
+    "stat": {
+      "level": 1,
+      "population": 60916
+    },
+    "stations": [
+      {
+        "id": 6026,
+        "dist": 99,
+        "kf": 1
+      },
+      {
+        "id": 7165,
+        "dist": 84,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 307864,
+    "coord": {
+      "lon": 37.115002,
+      "lat": 36.71611
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443213
+    },
+    "name": "Kilis",
+    "stat": {
+      "level": 1,
+      "population": 82301
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 41,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 308024,
+    "coord": {
+      "lon": 33.613609,
+      "lat": 39.673061
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 443188
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Keskin"
+      },
+      {
+        "ru": "Кескин"
+      }
+    ],
+    "name": "Keskin",
+    "stat": {
+      "level": 1,
+      "population": 49679
+    },
+    "stations": [
+      {
+        "id": 6022,
+        "dist": 72,
+        "kf": 1
+      },
+      {
+        "id": 27749,
+        "dist": 83,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 308220,
+    "coord": {
+      "lon": 30.56056,
+      "lat": 36.597778
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 323776
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Kemer"
+      },
+      {
+        "ru": "Кемер"
+      }
+    ],
+    "name": "Kemer",
+    "stat": {
+      "level": 1,
+      "population": 17300
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 39,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 308224,
+    "coord": {
+      "lon": 27.417311,
+      "lat": 38.426208
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Kemalpasa",
+    "stat": {
+      "level": 1,
+      "population": 30411
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 27,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 308464,
+    "coord": {
+      "lon": 35.485279,
+      "lat": 38.73222
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 308463
+    },
+    "name": "Kayseri",
+    "stat": {
+      "level": 1,
+      "population": 592840
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 4,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 309415,
+    "coord": {
+      "lon": 33.55064,
+      "lat": 37.715961
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Karap%C4%B1nar"
+      }
+    ],
+    "name": "Karapinar",
+    "stat": {
+      "level": 1,
+      "population": 49509
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 309527,
+    "coord": {
+      "lon": 33.215,
+      "lat": 37.18111
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443187
+    },
+    "name": "Karaman",
+    "stat": {
+      "level": 1,
+      "population": 120399
+    },
+    "zoom": 8
+  },
+  {
+    "id": 309647,
+    "coord": {
+      "lon": 43.051392,
+      "lat": 39.71944
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 325163
+    },
+    "name": "Agri",
+    "stat": {
+      "level": 1,
+      "population": 92022
+    },
+    "stations": [
+      {
+        "id": 6067,
+        "dist": 93,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 309663,
+    "coord": {
+      "lon": 40.038609,
+      "lat": 38.95583
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 315807
+    },
+    "name": "Karakocan",
+    "stat": {
+      "level": 1,
+      "population": 29735
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 75,
+        "kf": 1
+      },
+      {
+        "id": 6065,
+        "dist": 94,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 310004,
+    "coord": {
+      "lon": 42.112389,
+      "lat": 39.34919
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 315367
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Kara%C3%A7oban"
+      }
+    ],
+    "name": "Karacoban",
+    "stat": {
+      "level": 1,
+      "population": 20467
+    },
+    "zoom": 9
+  },
+  {
+    "id": 310641,
+    "coord": {
+      "lon": 33.723888,
+      "lat": 39.357498
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 307513
+    },
+    "name": "Kaman",
+    "stat": {
+      "level": 1,
+      "population": 28605
+    },
+    "zoom": 9
+  },
+  {
+    "id": 310855,
+    "coord": {
+      "lon": 38.623699,
+      "lat": 37.785519
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325329
+    },
+    "name": "Kahta",
+    "stat": {
+      "level": 1,
+      "population": 73105
+    },
+    "stations": [
+      {
+        "id": 6038,
+        "dist": 85,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 310859,
+    "coord": {
+      "lon": 36.926399,
+      "lat": 37.584702
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 310858
+    },
+    "name": "Kahramanmaras",
+    "stat": {
+      "level": 1,
+      "population": 376045
+    },
+    "stations": [
+      {
+        "id": 7827,
+        "dist": 5,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 310892,
+    "coord": {
+      "lon": 36.096111,
+      "lat": 37.37389
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325361
+    },
+    "name": "Kadirli",
+    "stat": {
+      "level": 1,
+      "population": 70248
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 84,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 72,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 77,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 310907,
+    "coord": {
+      "lon": 32.211391,
+      "lat": 38.239719
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Kad%C4%B1nhan%C4%B1"
+      },
+      {
+        "ota": "سید ایلی"
+      }
+    ],
+    "name": "Kadinhani",
+    "stat": {
+      "level": 1,
+      "population": 15301
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 42,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 311046,
+    "coord": {
+      "lon": 27.13838,
+      "lat": 38.412731
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 311044
+    },
+    "name": "Izmir",
+    "stat": {
+      "level": 1,
+      "population": 2500603
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 13,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 311073,
+    "coord": {
+      "lon": 30.552219,
+      "lat": 37.764439
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 311071
+    },
+    "name": "Isparta",
+    "stat": {
+      "level": 1,
+      "population": 172334
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 19,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 311111,
+    "coord": {
+      "lon": 36.17347,
+      "lat": 36.587181
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312394
+    },
+    "langs": [
+      {
+        "de": "İskenderun"
+      },
+      {
+        "en": "İskenderun"
+      },
+      {
+        "es": "Alejandreta"
+      },
+      {
+        "fa": "اسکندرون"
+      },
+      {
+        "fi": "İskenderun"
+      },
+      {
+        "fr": "İskenderun"
+      },
+      {
+        "gl": "Iskenderun"
+      },
+      {
+        "id": "İskenderun"
+      },
+      {
+        "la": "Alexandria ad Issum"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/%C4%B0skenderun"
+      },
+      {
+        "nl": "İskenderun"
+      },
+      {
+        "pl": "Aleksandretta"
+      },
+      {
+        "ru": "Искендерун"
+      },
+      {
+        "sv": "İskenderun"
+      },
+      {
+        "tr": "İskenderun"
+      }
+    ],
+    "name": "Iskenderun",
+    "stat": {
+      "level": 1,
+      "population": 159965
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 90,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 79,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 311314,
+    "coord": {
+      "lon": 27.72361,
+      "lat": 37.852219
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C4%B0ncirliova"
+      }
+    ],
+    "name": "Incirliova",
+    "stat": {
+      "level": 1,
+      "population": 18572
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 73,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 69,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 311453,
+    "coord": {
+      "lon": 35.657169,
+      "lat": 37.26506
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325361
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C4%B0mamo%C4%9Flu"
+      }
+    ],
+    "name": "Imamoglu",
+    "stat": {
+      "level": 1,
+      "population": 31916
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 46,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 35,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 311553,
+    "coord": {
+      "lon": 31.913891,
+      "lat": 38.279171
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "name": "Ilgin",
+    "stat": {
+      "level": 1,
+      "population": 27423
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 311665,
+    "coord": {
+      "lon": 44.044998,
+      "lat": 39.92371
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443184
+    },
+    "name": "Igdir",
+    "stat": {
+      "level": 1,
+      "population": 75721
+    },
+    "stations": [
+      {
+        "id": 7226,
+        "dist": 39,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 311704,
+    "coord": {
+      "lon": 41.8895,
+      "lat": 37.341141
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 443189
+    },
+    "name": "Idil",
+    "stat": {
+      "level": 1,
+      "population": 22960
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 94,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 312024,
+    "coord": {
+      "lon": 42.427761,
+      "lat": 38.225719
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321022
+    },
+    "name": "Hizan",
+    "stat": {
+      "level": 1,
+      "population": 15302
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 82,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 312114,
+    "coord": {
+      "lon": 41.702221,
+      "lat": 39.3606
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 315367
+    },
+    "name": "Hinis",
+    "stat": {
+      "level": 1,
+      "population": 35472
+    },
+    "stations": [
+      {
+        "id": 6066,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 312134,
+    "coord": {
+      "lon": 38.955051,
+      "lat": 37.586861
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Hilvan"
+      }
+    ],
+    "name": "Hilvan",
+    "stat": {
+      "level": 1,
+      "population": 16990
+    },
+    "zoom": 8
+  },
+  {
+    "id": 312899,
+    "coord": {
+      "lon": 32.456741,
+      "lat": 36.987759
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Hadim"
+      },
+      {
+        "ru": "Хадим"
+      }
+    ],
+    "name": "Hadim",
+    "stat": {
+      "level": 1,
+      "population": 20110
+    },
+    "zoom": 9
+  },
+  {
+    "id": 313013,
+    "coord": {
+      "lon": 35.449371,
+      "lat": 38.646309
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 308463
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Hac%C4%B1lar"
+      }
+    ],
+    "name": "Hacilar",
+    "stat": {
+      "level": 1,
+      "population": 21167
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 14,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 313331,
+    "coord": {
+      "lon": 42.028111,
+      "lat": 38.577389
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321022
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/G%C3%BCroymak"
+      }
+    ],
+    "name": "Guroymak",
+    "stat": {
+      "level": 1,
+      "population": 25826
+    },
+    "stations": [
+      {
+        "id": 6072,
+        "dist": 37,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 314136,
+    "coord": {
+      "lon": 37.636669,
+      "lat": 37.783611
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325329
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/G%C3%B6lba%C5%9F%C4%B1%2C_Ad%C4%B1yaman"
+      }
+    ],
+    "name": "Golbasi",
+    "stat": {
+      "level": 1,
+      "population": 28078
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 93,
+        "kf": 1
+      },
+      {
+        "id": 6038,
+        "dist": 83,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 314188,
+    "coord": {
+      "lon": 36.497299,
+      "lat": 38.020962
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 310858
+    },
+    "name": "Goksun",
+    "stat": {
+      "level": 1,
+      "population": 34243
+    },
+    "stations": [
+      {
+        "id": 7827,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 314648,
+    "coord": {
+      "lon": 40.560349,
+      "lat": 38.75071
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321079
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Gen%C3%A7%2C_Bing%C3%B6l"
+      },
+      {
+        "ru": "Генк"
+      },
+      {
+        "tr": "Genç"
+      }
+    ],
+    "name": "Genc",
+    "stat": {
+      "level": 1,
+      "population": 22493
+    },
+    "zoom": 10
+  },
+  {
+    "id": 314665,
+    "coord": {
+      "lon": 36.071892,
+      "lat": 39.183418
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 300617
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Gemerek"
+      }
+    ],
+    "name": "Gemerek",
+    "stat": {
+      "level": 1,
+      "population": 16916
+    },
+    "stations": [
+      {
+        "id": 6036,
+        "dist": 99,
+        "kf": 1
+      },
+      {
+        "id": 6039,
+        "dist": 67,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 314716,
+    "coord": {
+      "lon": 29.41,
+      "lat": 39.041672
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 305267
+    },
+    "name": "Gediz",
+    "stat": {
+      "level": 1,
+      "population": 22058
+    },
+    "zoom": 9
+  },
+  {
+    "id": 314812,
+    "coord": {
+      "lon": 32.317921,
+      "lat": 36.269421
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Gazipa%C5%9Fa"
+      }
+    ],
+    "name": "Gazipasa",
+    "stat": {
+      "level": 1,
+      "population": 18371
+    },
+    "zoom": 9
+  },
+  {
+    "id": 314830,
+    "coord": {
+      "lon": 37.3825,
+      "lat": 37.059441
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 314829
+    },
+    "name": "Gaziantep",
+    "stat": {
+      "level": 1,
+      "population": 1065975
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 14,
+        "kf": 1
+      }
+    ],
+    "zoom": 5
+  },
+  {
+    "id": 314903,
+    "coord": {
+      "lon": 26.756559,
+      "lat": 38.6703
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Foca",
+    "stat": {
+      "level": 1,
+      "population": 15189
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 45,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 314967,
+    "coord": {
+      "lon": 29.11639,
+      "lat": 36.62167
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "name": "Fethiye",
+    "stat": {
+      "level": 1,
+      "population": 60437
+    },
+    "stations": [
+      {
+        "id": 6058,
+        "dist": 30,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 315061,
+    "coord": {
+      "lon": 26.34083,
+      "lat": 39.78561
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 749778
+    },
+    "name": "Ezine",
+    "stat": {
+      "level": 1,
+      "population": 15677
+    },
+    "stations": [
+      {
+        "id": 5686,
+        "dist": 94,
+        "kf": 1
+      },
+      {
+        "id": 5689,
+        "dist": 84,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315202,
+    "coord": {
+      "lon": 30.520559,
+      "lat": 39.776669
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 315201
+    },
+    "name": "Eskisehir",
+    "stat": {
+      "level": 1,
+      "population": 514869
+    },
+    "stations": [
+      {
+        "id": 6057,
+        "dist": 97,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 315368,
+    "coord": {
+      "lon": 41.276939,
+      "lat": 39.908611
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 315367
+    },
+    "name": "Erzurum",
+    "stat": {
+      "level": 1,
+      "population": 420691
+    },
+    "stations": [
+      {
+        "id": 6066,
+        "dist": 10,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 315373,
+    "coord": {
+      "lon": 39.492779,
+      "lat": 39.75222
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 315372
+    },
+    "name": "Erzincan",
+    "stat": {
+      "level": 1,
+      "population": 114027
+    },
+    "stations": [
+      {
+        "id": 6065,
+        "dist": 5,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 315401,
+    "coord": {
+      "lon": 32.891788,
+      "lat": 36.64043
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 443187
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ermenek"
+      }
+    ],
+    "name": "Ermenek",
+    "stat": {
+      "level": 1,
+      "population": 16986
+    },
+    "zoom": 9
+  },
+  {
+    "id": 315468,
+    "coord": {
+      "lon": 39.762119,
+      "lat": 38.265331
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 316540
+    },
+    "name": "Ergani",
+    "stat": {
+      "level": 1,
+      "population": 52684
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 55,
+        "kf": 1
+      },
+      {
+        "id": 6064,
+        "dist": 57,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315498,
+    "coord": {
+      "lon": 34.046719,
+      "lat": 37.513329
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 306569
+    },
+    "name": "Eregli",
+    "stat": {
+      "level": 1,
+      "population": 92117
+    },
+    "zoom": 8
+  },
+  {
+    "id": 315515,
+    "coord": {
+      "lon": 34.308361,
+      "lat": 36.60498
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 311728
+    },
+    "name": "Erdemli",
+    "stat": {
+      "level": 1,
+      "population": 46570
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 95,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315530,
+    "coord": {
+      "lon": 43.358639,
+      "lat": 39.02869
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298113
+    },
+    "name": "Ercis",
+    "stat": {
+      "level": 1,
+      "population": 91915
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 62,
+        "kf": 1
+      },
+      {
+        "id": 7083,
+        "dist": 79,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 315621,
+    "coord": {
+      "lon": 31.15,
+      "lat": 39.019718
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325302
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Emirda%C4%9F"
+      }
+    ],
+    "name": "Emirdag",
+    "stat": {
+      "level": 1,
+      "population": 20063
+    },
+    "zoom": 8
+  },
+  {
+    "id": 315639,
+    "coord": {
+      "lon": 29.258471,
+      "lat": 39.342999
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 305267
+    },
+    "name": "Emet",
+    "stat": {
+      "level": 1,
+      "population": 23812
+    },
+    "zoom": 9
+  },
+  {
+    "id": 315697,
+    "coord": {
+      "lon": 29.917749,
+      "lat": 36.735828
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "name": "Elmali",
+    "stat": {
+      "level": 1,
+      "population": 16587
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315720,
+    "coord": {
+      "lon": 33.230831,
+      "lat": 39.92083
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323784
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Elmada%C4%9F%2C_Ankara"
+      }
+    ],
+    "name": "Elmadag",
+    "stat": {
+      "level": 1,
+      "population": 25394
+    },
+    "stations": [
+      {
+        "id": 6022,
+        "dist": 30,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 315758,
+    "coord": {
+      "lon": 42.673611,
+      "lat": 39.803329
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325163
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ele%C5%9Fkirt"
+      }
+    ],
+    "name": "Eleskirt",
+    "stat": {
+      "level": 1,
+      "population": 18769
+    },
+    "stations": [
+      {
+        "id": 6067,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315795,
+    "coord": {
+      "lon": 37.198299,
+      "lat": 38.20591
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 310858
+    },
+    "name": "Elbistan",
+    "stat": {
+      "level": 1,
+      "population": 80456
+    },
+    "stations": [
+      {
+        "id": 6038,
+        "dist": 81,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 77,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 315808,
+    "coord": {
+      "lon": 39.223209,
+      "lat": 38.674309
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 315807
+    },
+    "name": "Elazig",
+    "stat": {
+      "level": 1,
+      "population": 298004
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 9,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 315905,
+    "coord": {
+      "lon": 30.85042,
+      "lat": 37.874619
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311071
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/E%C4%9Firdir"
+      }
+    ],
+    "name": "Egirdir",
+    "stat": {
+      "level": 1,
+      "population": 17228
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 42,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 315985,
+    "coord": {
+      "lon": 27.024441,
+      "lat": 39.596111
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "name": "Edremit",
+    "stat": {
+      "level": 1,
+      "population": 40777
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 70,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 316102,
+    "coord": {
+      "lon": 28.625681,
+      "lat": 39.58596
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "name": "Dursunbey",
+    "stat": {
+      "level": 1,
+      "population": 17532
+    },
+    "zoom": 8
+  },
+  {
+    "id": 316284,
+    "coord": {
+      "lon": 36.228851,
+      "lat": 36.86158
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 436927
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/D%C3%B6rtyol"
+      }
+    ],
+    "name": "Dortyol",
+    "stat": {
+      "level": 1,
+      "population": 56513
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 85,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 72,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 98,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 316411,
+    "coord": {
+      "lon": 44.084171,
+      "lat": 39.54694
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325163
+    },
+    "name": "Dogubayazit",
+    "stat": {
+      "level": 1,
+      "population": 70171
+    },
+    "stations": [
+      {
+        "id": 7083,
+        "dist": 41,
+        "kf": 1
+      },
+      {
+        "id": 7226,
+        "dist": 72,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 316541,
+    "coord": {
+      "lon": 40.218891,
+      "lat": 37.915829
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 316540
+    },
+    "name": "Diyarbakir",
+    "stat": {
+      "level": 1,
+      "population": 644763
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 3,
+        "kf": 1
+      }
+    ],
+    "zoom": 6
+  },
+  {
+    "id": 316542,
+    "coord": {
+      "lon": 43.671349,
+      "lat": 39.540562
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325163
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Diyadin"
+      }
+    ],
+    "name": "Diyadin",
+    "stat": {
+      "level": 1,
+      "population": 18172
+    },
+    "stations": [
+      {
+        "id": 7083,
+        "dist": 63,
+        "kf": 1
+      },
+      {
+        "id": 7226,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 316634,
+    "coord": {
+      "lon": 30.165569,
+      "lat": 38.064999
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325302
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Dinar_%28District%29%2C_Afyonkarahisar"
+      },
+      {
+        "ru": "Динар"
+      }
+    ],
+    "name": "Dinar",
+    "stat": {
+      "level": 1,
+      "population": 35359
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 29,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 316795,
+    "coord": {
+      "lon": 35.492222,
+      "lat": 38.39056
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 308463
+    },
+    "name": "Develi",
+    "stat": {
+      "level": 1,
+      "population": 35868
+    },
+    "stations": [
+      {
+        "id": 6039,
+        "dist": 42,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 317109,
+    "coord": {
+      "lon": 29.0875,
+      "lat": 37.77417
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 317106
+    },
+    "name": "Denizli",
+    "stat": {
+      "level": 1,
+      "population": 313238
+    },
+    "zoom": 7
+  },
+  {
+    "id": 317241,
+    "coord": {
+      "lon": 28.65889,
+      "lat": 39.04607
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Demirci"
+      }
+    ],
+    "name": "Demirci",
+    "stat": {
+      "level": 1,
+      "population": 21378
+    },
+    "zoom": 10
+  },
+  {
+    "id": 317587,
+    "coord": {
+      "lon": 41.719662,
+      "lat": 37.545448
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304794
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Darge%C3%A7it"
+      },
+      {
+        "ru": "Даргечит"
+      }
+    ],
+    "name": "Dargecit",
+    "stat": {
+      "level": 1,
+      "population": 20793
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 67,
+        "kf": 1
+      },
+      {
+        "id": 7168,
+        "dist": 75,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 317588,
+    "coord": {
+      "lon": 37.505829,
+      "lat": 38.54583
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304919
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Darende"
+      },
+      {
+        "ru": "Даренде"
+      }
+    ],
+    "name": "Darende",
+    "stat": {
+      "level": 1,
+      "population": 20388
+    },
+    "stations": [
+      {
+        "id": 6038,
+        "dist": 51,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 317844,
+    "coord": {
+      "lon": 32.77446,
+      "lat": 37.5732
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C3%87umra"
+      }
+    ],
+    "name": "Cumra",
+    "stat": {
+      "level": 1,
+      "population": 45657
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 49,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 317851,
+    "coord": {
+      "lon": 27.134291,
+      "lat": 38.24963
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Cumaovasi",
+    "stat": {
+      "level": 1,
+      "population": 21965
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 5,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 318137,
+    "coord": {
+      "lon": 43.740829,
+      "lat": 37.57444
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 312888
+    },
+    "name": "Hakkari",
+    "stat": {
+      "level": 1,
+      "population": 77699
+    },
+    "zoom": 8
+  },
+  {
+    "id": 318253,
+    "coord": {
+      "lon": 42.190281,
+      "lat": 37.327221
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 443189
+    },
+    "name": "Cizre",
+    "stat": {
+      "level": 1,
+      "population": 80992
+    },
+    "stations": [
+      {
+        "id": 7168,
+        "dist": 95,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 318372,
+    "coord": {
+      "lon": 28.06139,
+      "lat": 37.611671
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322819
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C3%87ine"
+      }
+    ],
+    "name": "Cine",
+    "stat": {
+      "level": 1,
+      "population": 21327
+    },
+    "stations": [
+      {
+        "id": 6083,
+        "dist": 53,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 318668,
+    "coord": {
+      "lon": 40.049999,
+      "lat": 36.847221
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 298332
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ceylanp%C4%B1nar"
+      }
+    ],
+    "name": "Ceylanpinar",
+    "stat": {
+      "level": 1,
+      "population": 31488
+    },
+    "zoom": 9
+  },
+  {
+    "id": 318675,
+    "coord": {
+      "lon": 35.817501,
+      "lat": 37.024719
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325361
+    },
+    "name": "Ceyhan",
+    "stat": {
+      "level": 1,
+      "population": 96303
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 48,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 34,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 318755,
+    "coord": {
+      "lon": 26.306391,
+      "lat": 38.322781
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Cesme",
+    "stat": {
+      "level": 1,
+      "population": 21316
+    },
+    "stations": [
+      {
+        "id": 5676,
+        "dist": 14,
+        "kf": 1
+      },
+      {
+        "id": 32628,
+        "dist": 16,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 318766,
+    "coord": {
+      "lon": 39.449291,
+      "lat": 38.136131
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 316540
+    },
+    "name": "Cermik",
+    "stat": {
+      "level": 1,
+      "population": 20975
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 54,
+        "kf": 1
+      },
+      {
+        "id": 6064,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 319104,
+    "coord": {
+      "lon": 31.02861,
+      "lat": 38.591671
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325302
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C3%87ay"
+      },
+      {
+        "ru": "Кей"
+      }
+    ],
+    "name": "Cay",
+    "stat": {
+      "level": 1,
+      "population": 34215
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 99,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 320004,
+    "coord": {
+      "lon": 37.296219,
+      "lat": 37.749592
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 310858
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/%C3%87a%C4%9Flayancerit"
+      }
+    ],
+    "name": "Caglayancerit",
+    "stat": {
+      "level": 1,
+      "population": 15530
+    },
+    "stations": [
+      {
+        "id": 7827,
+        "dist": 38,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 320369,
+    "coord": {
+      "lon": 26.972691,
+      "lat": 39.500408
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Burhaniye"
+      }
+    ],
+    "name": "Burhaniye",
+    "stat": {
+      "level": 1,
+      "population": 38083
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 58,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 320392,
+    "coord": {
+      "lon": 30.290831,
+      "lat": 37.72028
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 320390
+    },
+    "name": "Burdur",
+    "stat": {
+      "level": 1,
+      "population": 66158
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 17,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 320448,
+    "coord": {
+      "lon": 42.270309,
+      "lat": 39.092918
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 304041
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bulan%C4%B1k"
+      }
+    ],
+    "name": "Bulanik",
+    "stat": {
+      "level": 1,
+      "population": 31430
+    },
+    "zoom": 9
+  },
+  {
+    "id": 320533,
+    "coord": {
+      "lon": 30.594999,
+      "lat": 37.459171
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 320390
+    },
+    "name": "Bucak",
+    "stat": {
+      "level": 1,
+      "population": 29234
+    },
+    "stations": [
+      {
+        "id": 6081,
+        "dist": 48,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 320552,
+    "coord": {
+      "lon": 32.961128,
+      "lat": 36.1082
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311728
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bozyaz%C4%B1"
+      }
+    ],
+    "name": "Bozyazi",
+    "stat": {
+      "level": 1,
+      "population": 28456
+    },
+    "zoom": 11
+  },
+  {
+    "id": 320557,
+    "coord": {
+      "lon": 30.036671,
+      "lat": 39.90778
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 321122
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Boz%C3%BCy%C3%BCk"
+      }
+    ],
+    "name": "Bozuyuk",
+    "stat": {
+      "level": 1,
+      "population": 55365
+    },
+    "stations": [
+      {
+        "id": 6057,
+        "dist": 56,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 320581,
+    "coord": {
+      "lon": 38.526669,
+      "lat": 37.362499
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "name": "Bozova",
+    "stat": {
+      "level": 1,
+      "population": 21502
+    },
+    "zoom": 9
+  },
+  {
+    "id": 320871,
+    "coord": {
+      "lon": 34.558891,
+      "lat": 37.89056
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 303826
+    },
+    "name": "Bor",
+    "stat": {
+      "level": 1,
+      "population": 32435
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 66,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 320879,
+    "coord": {
+      "lon": 31.048611,
+      "lat": 38.711109
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325302
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bolvadin"
+      }
+    ],
+    "name": "Bolvadin",
+    "stat": {
+      "level": 1,
+      "population": 55870
+    },
+    "zoom": 9
+  },
+  {
+    "id": 320995,
+    "coord": {
+      "lon": 27.429171,
+      "lat": 37.03833
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304183
+    },
+    "name": "Bodrum",
+    "stat": {
+      "level": 1,
+      "population": 39317
+    },
+    "stations": [
+      {
+        "id": 5681,
+        "dist": 40,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 31,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 321031,
+    "coord": {
+      "lon": 40.665829,
+      "lat": 37.84861
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 316540
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bismil"
+      },
+      {
+        "tr": "Bismil"
+      }
+    ],
+    "name": "Bismil",
+    "stat": {
+      "level": 1,
+      "population": 74493
+    },
+    "stations": [
+      {
+        "id": 6064,
+        "dist": 41,
+        "kf": 1
+      },
+      {
+        "id": 6071,
+        "dist": 40,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 321062,
+    "coord": {
+      "lon": 37.99028,
+      "lat": 37.029442
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "name": "Birecik",
+    "stat": {
+      "level": 1,
+      "population": 44284
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 46,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 321082,
+    "coord": {
+      "lon": 40.493889,
+      "lat": 38.88472
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 321079
+    },
+    "name": "Bingol",
+    "stat": {
+      "level": 1,
+      "population": 80568
+    },
+    "zoom": 8
+  },
+  {
+    "id": 321136,
+    "coord": {
+      "lon": 28.131109,
+      "lat": 39.392502
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "name": "Bigadic",
+    "stat": {
+      "level": 1,
+      "population": 15242
+    },
+    "zoom": 9
+  },
+  {
+    "id": 321191,
+    "coord": {
+      "lon": 31.724581,
+      "lat": 37.677349
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "name": "Beysehir",
+    "stat": {
+      "level": 1,
+      "population": 44460
+    },
+    "stations": [
+      {
+        "id": 6033,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 321337,
+    "coord": {
+      "lon": 37.861111,
+      "lat": 37.69278
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 325329
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Besni"
+      }
+    ],
+    "name": "Besni",
+    "stat": {
+      "level": 1,
+      "population": 41892
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 88,
+        "kf": 1
+      },
+      {
+        "id": 6038,
+        "dist": 85,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 81,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 321426,
+    "coord": {
+      "lon": 27.180519,
+      "lat": 39.120739
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Bergama",
+    "stat": {
+      "level": 1,
+      "population": 57200
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 50,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 321572,
+    "coord": {
+      "lon": 36.223309,
+      "lat": 36.489109
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 312394
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Belen%2C_Hatay"
+      },
+      {
+        "ru": "Белен"
+      }
+    ],
+    "name": "Belen",
+    "stat": {
+      "level": 1,
+      "population": 20113
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 99,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 90,
+        "kf": 1
+      },
+      {
+        "id": 7165,
+        "dist": 96,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 321580,
+    "coord": {
+      "lon": 31.055559,
+      "lat": 36.862782
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 323776
+    },
+    "name": "Belek",
+    "stat": {
+      "level": 1,
+      "population": 73260
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 23,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 321786,
+    "coord": {
+      "lon": 27.64744,
+      "lat": 38.217411
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bay%C4%B1nd%C4%B1r"
+      },
+      {
+        "ru": "Байиндыр"
+      }
+    ],
+    "name": "Bayindir",
+    "stat": {
+      "level": 1,
+      "population": 16850
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 43,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 321836,
+    "coord": {
+      "lon": 41.13221,
+      "lat": 37.887379
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443186
+    },
+    "name": "Batman",
+    "stat": {
+      "level": 1,
+      "population": 302074
+    },
+    "stations": [
+      {
+        "id": 6071,
+        "dist": 4,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 321929,
+    "coord": {
+      "lon": 38.823818,
+      "lat": 38.567909
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 315807
+    },
+    "name": "Baskil",
+    "stat": {
+      "level": 1,
+      "population": 15922
+    },
+    "stations": [
+      {
+        "id": 6062,
+        "dist": 40,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 322051,
+    "coord": {
+      "lon": 29.75194,
+      "lat": 38.737068
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 298298
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Banaz"
+      }
+    ],
+    "name": "Banaz",
+    "stat": {
+      "level": 1,
+      "population": 17080
+    },
+    "zoom": 9
+  },
+  {
+    "id": 322165,
+    "coord": {
+      "lon": 27.88611,
+      "lat": 39.64917
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 322164
+    },
+    "name": "Balikesir",
+    "stat": {
+      "level": 1,
+      "population": 238151
+    },
+    "zoom": 7
+  },
+  {
+    "id": 322391,
+    "coord": {
+      "lon": 36.57658,
+      "lat": 37.197239
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 325361
+    },
+    "name": "Bahce",
+    "stat": {
+      "level": 1,
+      "population": 19566
+    },
+    "stations": [
+      {
+        "id": 6029,
+        "dist": 84,
+        "kf": 1
+      },
+      {
+        "id": 7827,
+        "dist": 49,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 322673,
+    "coord": {
+      "lon": 26.6954,
+      "lat": 39.31905
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 322164
+    },
+    "name": "Ayvalik",
+    "stat": {
+      "level": 1,
+      "population": 35193
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 29,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 322830,
+    "coord": {
+      "lon": 27.83963,
+      "lat": 37.845009
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 322819
+    },
+    "name": "Aydin",
+    "stat": {
+      "level": 1,
+      "population": 163022
+    },
+    "stations": [
+      {
+        "id": 5697,
+        "dist": 83,
+        "kf": 1
+      },
+      {
+        "id": 6051,
+        "dist": 76,
+        "kf": 1
+      },
+      {
+        "id": 6083,
+        "dist": 68,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 323094,
+    "coord": {
+      "lon": 40.695,
+      "lat": 39.92083
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 315367
+    },
+    "name": "Askale",
+    "stat": {
+      "level": 1,
+      "population": 15462
+    },
+    "stations": [
+      {
+        "id": 6066,
+        "dist": 40,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 323777,
+    "coord": {
+      "lon": 30.69556,
+      "lat": 36.908119
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 323776
+    },
+    "langs": [
+      {
+        "bg": "Анталия"
+      },
+      {
+        "br": "Antalya"
+      },
+      {
+        "cs": "Antalya"
+      },
+      {
+        "da": "Antalya"
+      },
+      {
+        "de": "Antalya"
+      },
+      {
+        "el": "Αττάλεια"
+      },
+      {
+        "en": "Antalya"
+      },
+      {
+        "es": "Antalya"
+      },
+      {
+        "fi": "Antalya"
+      },
+      {
+        "fr": "Antalya"
+      },
+      {
+        "gl": "Antalya"
+      },
+      {
+        "he": "אנטליה"
+      },
+      {
+        "hu": "Antalya"
+      },
+      {
+        "iata": "AYT"
+      },
+      {
+        "id": "Antalya"
+      },
+      {
+        "it": "Adalia"
+      },
+      {
+        "ja": "アンタルヤ"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Antalya"
+      },
+      {
+        "nl": "Antalya"
+      },
+      {
+        "pl": "Antalya"
+      },
+      {
+        "pt": "Antália"
+      },
+      {
+        "ru": "Анталия"
+      },
+      {
+        "sv": "Antalya"
+      },
+      {
+        "tr": "Antalya"
+      },
+      {
+        "zh": "安塔利亞"
+      }
+    ],
+    "name": "Antalya",
+    "stat": {
+      "level": 1,
+      "population": 758188
+    },
+    "stations": [
+      {
+        "id": 6028,
+        "dist": 9,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 323779,
+    "coord": {
+      "lon": 36.157219,
+      "lat": 36.206551
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 312394
+    },
+    "name": "Antioch",
+    "stat": {
+      "level": 1,
+      "population": 154803
+    },
+    "stations": [
+      {
+        "id": 7165,
+        "dist": 95,
+        "kf": 1
+      },
+      {
+        "id": 7169,
+        "dist": 92,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 323786,
+    "coord": {
+      "lon": 32.854271,
+      "lat": 39.919868
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLC",
+      "parent": 323784
+    },
+    "name": "Ankara",
+    "stat": {
+      "level": 1,
+      "population": 3517182
+    },
+    "stations": [
+      {
+        "id": 6022,
+        "dist": 26,
+        "kf": 1
+      }
+    ],
+    "zoom": 4
+  },
+  {
+    "id": 323828,
+    "coord": {
+      "lon": 32.83691,
+      "lat": 36.075081
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 311728
+    },
+    "name": "Anamur",
+    "stat": {
+      "level": 1,
+      "population": 57128
+    },
+    "zoom": 8
+  },
+  {
+    "id": 324106,
+    "coord": {
+      "lon": 26.972031,
+      "lat": 38.799751
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 311044
+    },
+    "name": "Aliaga",
+    "stat": {
+      "level": 1,
+      "population": 44883
+    },
+    "stations": [
+      {
+        "id": 5689,
+        "dist": 43,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 324172,
+    "coord": {
+      "lon": 28.517179,
+      "lat": 38.35083
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "langs": [
+      {
+        "de": "Alaşehir"
+      },
+      {
+        "en": "Alaşehir"
+      },
+      {
+        "fi": "Filadelfeia"
+      },
+      {
+        "fr": "Alaşehir"
+      },
+      {
+        "ja": "アラシェヒル"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Ala%C5%9Fehir"
+      },
+      {
+        "pl": "Alaşehir"
+      },
+      {
+        "ru": "Алашехир"
+      },
+      {
+        "sv": "Alaşehir"
+      },
+      {
+        "tr": "Alaşehir"
+      }
+    ],
+    "name": "Alasehir",
+    "stat": {
+      "level": 1,
+      "population": 40735
+    },
+    "zoom": 9
+  },
+  {
+    "id": 324190,
+    "coord": {
+      "lon": 31.999821,
+      "lat": 36.543751
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 323776
+    },
+    "langs": [
+      {
+        "de": "Alanya"
+      },
+      {
+        "en": "Alanya"
+      },
+      {
+        "fi": "Alanya"
+      },
+      {
+        "he": "אלניה"
+      },
+      {
+        "it": "Alanya"
+      },
+      {
+        "nl": "Alanya"
+      },
+      {
+        "no": "Alanya"
+      },
+      {
+        "pl": "Alanya"
+      },
+      {
+        "ru": "Аланья"
+      },
+      {
+        "sv": "Alanya"
+      },
+      {
+        "tr": "Alanya"
+      }
+    ],
+    "name": "Alanya",
+    "stat": {
+      "level": 1,
+      "population": 112969
+    },
+    "zoom": 7
+  },
+  {
+    "id": 324490,
+    "coord": {
+      "lon": 31.416389,
+      "lat": 38.357498
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 306569
+    },
+    "name": "Aksehir",
+    "stat": {
+      "level": 1,
+      "population": 64446
+    },
+    "zoom": 8
+  },
+  {
+    "id": 324496,
+    "coord": {
+      "lon": 34.025372,
+      "lat": 38.372551
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 443185
+    },
+    "name": "Aksaray",
+    "stat": {
+      "level": 1,
+      "population": 152201
+    },
+    "stations": [
+      {
+        "id": 6043,
+        "dist": 28,
+        "kf": 1
+      }
+    ],
+    "zoom": 7
+  },
+  {
+    "id": 324698,
+    "coord": {
+      "lon": 27.840059,
+      "lat": 38.918522
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 304825
+    },
+    "name": "Akhisar",
+    "stat": {
+      "level": 1,
+      "population": 84659
+    },
+    "stations": [
+      {
+        "id": 6051,
+        "dist": 91,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 324768,
+    "coord": {
+      "lon": 35.88361,
+      "lat": 39.660278
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 296560
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Akda%C4%9Fmadeni"
+      }
+    ],
+    "name": "Akdagmadeni",
+    "stat": {
+      "level": 1,
+      "population": 23048
+    },
+    "stations": [
+      {
+        "id": 6036,
+        "dist": 88,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 324944,
+    "coord": {
+      "lon": 38.947498,
+      "lat": 36.711109
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 298332
+    },
+    "name": "Akcakale",
+    "stat": {
+      "level": 1,
+      "population": 32114
+    },
+    "zoom": 9
+  },
+  {
+    "id": 325103,
+    "coord": {
+      "lon": 42.48135,
+      "lat": 38.751781
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321022
+    },
+    "langs": [
+      {
+        "de": "Ahlat"
+      },
+      {
+        "en": "Ahlat"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Ahlat"
+      },
+      {
+        "pl": "Ahlat"
+      },
+      {
+        "ru": "Ахлат"
+      },
+      {
+        "tr": "Ahlat"
+      }
+    ],
+    "name": "Ahlat",
+    "stat": {
+      "level": 1,
+      "population": 64695
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 325303,
+    "coord": {
+      "lon": 30.543329,
+      "lat": 38.756672
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 325302
+    },
+    "name": "Afyonkarahisar",
+    "stat": {
+      "level": 1,
+      "population": 146136
+    },
+    "zoom": 8
+  },
+  {
+    "id": 325304,
+    "coord": {
+      "lon": 36.91399,
+      "lat": 38.247688
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 310858
+    },
+    "name": "Afsin",
+    "stat": {
+      "level": 1,
+      "population": 39613
+    },
+    "stations": [
+      {
+        "id": 7827,
+        "dist": 79,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 325330,
+    "coord": {
+      "lon": 38.276291,
+      "lat": 37.764408
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 325329
+    },
+    "name": "Adiyaman",
+    "stat": {
+      "level": 1,
+      "population": 223744
+    },
+    "stations": [
+      {
+        "id": 6038,
+        "dist": 77,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 325336,
+    "coord": {
+      "lon": 42.734219,
+      "lat": 38.80389
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA2",
+      "parent": 321022
+    },
+    "name": "Adilcevaz",
+    "stat": {
+      "level": 1,
+      "population": 52781
+    },
+    "stations": [
+      {
+        "id": 6070,
+        "dist": 63,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 325363,
+    "coord": {
+      "lon": 35.328892,
+      "lat": 37.001671
+    },
+    "country": "TR",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 325361
+    },
+    "name": "Adana",
+    "stat": {
+      "level": 1,
+      "population": 1248988
+    },
+    "stations": [
+      {
+        "id": 6025,
+        "dist": 4,
+        "kf": 1
+      },
+      {
+        "id": 6026,
+        "dist": 8,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  }
+]
