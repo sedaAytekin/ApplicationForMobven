@@ -32,8 +32,6 @@ import com.squareup.picasso.Picasso;
 import java.io.File;
 import java.util.List;
 
-import okhttp3.MultipartBody;
-
 public class CameraFragment extends Fragment {
     CameraFragmentBinding binding;
     public static int REQUEST_GALLERY = 10;
@@ -62,7 +60,7 @@ public class CameraFragment extends Fragment {
         }
 
     }
-    private MultipartBody.Part multipartBody;
+
     private void openCameraUpload() {
 
         if (getContext() != null) {
@@ -114,8 +112,6 @@ public class CameraFragment extends Fragment {
         String picturePath = cursor.getString(columnIndex);
         cursor.close();
         if (picturePath != null && !picturePath.equals("")) {
-            String temp_isim[] = picturePath.split("/");
-
             //image upload ederken multipart kullanılıyor.
             File file = FileUtils.getFile(picturePath);
 
@@ -123,6 +119,7 @@ public class CameraFragment extends Fragment {
         }
 
     }
+    //image i basıyoruz.
     private void loadImageFromFile(Context context, File f){
         Picasso.with(context).load(f).centerCrop().fit().into(binding.putImageIV);
     }

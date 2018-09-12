@@ -39,9 +39,8 @@ dependencies {
     implementation 'com.squareup.picasso:picasso:2.5.2'
     implementation 'com.karumi:dexter:4.2.0'
     implementation 'com.android.support:recyclerview-v7:27.1.1'
-
+    implementation 'me.relex:circleindicator:1.2.2@aar'
     implementation group: 'commons-io', name: 'commons-io', version: '2.4'
- //   implementation 'commons-io:commons-io:2.4'
     implementation "android.arch.lifecycle:viewmodel:1.1.1"
     implementation 'com.squareup.okhttp3:okhttp:3.10.0'
     testImplementation 'junit:junit:4.12'

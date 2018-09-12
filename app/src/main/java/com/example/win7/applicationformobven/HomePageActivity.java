@@ -3,19 +3,15 @@ package com.example.win7.applicationformobven;
 import android.arch.lifecycle.ViewModel;
 import android.databinding.DataBindingUtil;
 import android.support.annotation.NonNull;
-import android.support.graphics.drawable.VectorDrawableCompat;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.arch.lifecycle.ViewModelProvider;
 import android.arch.lifecycle.ViewModelProviders;
-import android.view.Window;
-import android.view.WindowManager;
-import android.widget.Toast;
 
 import com.example.win7.applicationformobven.HomePage.HomePageFragment;
-import com.example.win7.applicationformobven.SettingsPage.SettingsPageFragment;
+import com.example.win7.applicationformobven.HomePage.ViewPagerFragment;
 import com.example.win7.applicationformobven.databinding.ActivityHomePageBinding;
 
 public class HomePageActivity extends AppCompatActivity {
@@ -39,7 +35,7 @@ public class HomePageActivity extends AppCompatActivity {
             }
         }).get(ResponseViewModel.class);
 
-        HomePageFragment homePageFragment = new HomePageFragment();
+        ViewPagerFragment homePageFragment = new ViewPagerFragment();
         FragmentManager manager = getSupportFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
         transaction.replace(R.id.content, homePageFragment);

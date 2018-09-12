@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <android.support.v4.view.ViewPager
+            android:layout_width="match_parent"
+            android:id="@+id/pager"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="130dp"
+            />
+        <me.relex.circleindicator.CircleIndicator
+            android:id="@+id/indicator"
+            android:layout_alignParentBottom="true"
+            app:ci_drawable="@drawable/ic_circular_white"
+            app:ci_drawable_unselected="@drawable/ic_circular_black"
+            app:ci_height="20dp"
+            app:ci_width="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+     </RelativeLayout>
+
+</layout>

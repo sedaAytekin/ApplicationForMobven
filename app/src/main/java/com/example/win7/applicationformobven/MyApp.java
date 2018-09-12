@@ -7,30 +7,25 @@ import android.support.multidex.MultiDexApplication;
 public class MyApp extends MultiDexApplication{
     public static SharedPreferences sharedPreferences;
     public static String SHARED_PREFERENCES_NAME = "myapp";
-    public static SharedPreferences.Editor editor;
+
     private static MyApp myApp;
+    private static Context context;
+
     public static MyApp getMyApp() {
         return myApp;
     }
+    public MyApp() {
+        super();
+        context = this;
+    }
+
     @Override
     public void onCreate() {
         super.onCreate();
-        myApp = this;
-        sharedPreferences = getSharedPreferences(MyApp.SHARED_PREFERENCES_NAME,MODE_PRIVATE);
-        editor = sharedPreferences.edit();
+        context = this;
+
 
     }
-    public static SharedPreferences sharedpreferences;
 
-    //sharedpref'den veri çekme işlemini buradan yönetiyoruz
-    public static String getSharedPrefences(String key, String value){
 
-        sharedPreferences = getContext().getSharedPreferences(MyApp.SHARED_PREFERENCES_NAME, MODE_PRIVATE);
-
-        return sharedPreferences.getString(key, value);
-    }
-    public static Context getContext() {
-        //  return instance.getApplicationContext();
-        return MyApp.getMyApp().getApplicationContext();
-    }
 }

@@ -5,6 +5,7 @@ import android.arch.lifecycle.ViewModel;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.BatteryManager;
@@ -15,6 +16,7 @@ import android.widget.Toast;
 
 import com.example.win7.applicationformobven.Camera.CameraFragment;
 import com.example.win7.applicationformobven.HomePage.HomePageFragment;
+import com.example.win7.applicationformobven.HomePage.ViewPagerFragment;
 import com.example.win7.applicationformobven.Response.CityListModel;
 import com.example.win7.applicationformobven.SettingsPage.SettingsPageFragment;
 import com.google.gson.Gson;
@@ -28,6 +30,8 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
+
+import static android.content.Context.MODE_PRIVATE;
 
 public class ResponseViewModel extends ViewModel {
 
@@ -92,22 +96,35 @@ public class ResponseViewModel extends ViewModel {
     }
 
     public MutableLiveData<Boolean> isWifi = new MutableLiveData<>();
-
+    public static SharedPreferences sharedPreferences;
     FragmentManager fragmentManager;
+    public SharedPreferences.Editor editor;
     public ResponseViewModel(Context context, FragmentManager fragmentManager) {
         this.context = context;
         this.fragmentManager = fragmentManager;
         getBatteryLevel(context);
         getNetworkType(context);
-        getWeather("Izmir");
+        sharedPreferences = context.getSharedPreferences(MyApp.SHARED_PREFERENCES_NAME, MODE_PRIVATE);
+        //sharedpref te kayıtlı city varsa onun bilgilerini getiriyoruz, yoksa default olarak izmir getiriyoruz.
+        if (sharedPreferences.getString("cityName","") != null && !sharedPreferences.getString("cityName","").equals("")){
+            getWeather(sharedPreferences.getString("cityName",""));
+        }else{
+            getWeather("Izmir");
+        }
+
         loadJSONFromAsset(context);
     }
     public void searchCityClick(String cityName) {
+        sharedPreferences = context.getSharedPreferences(MyApp.SHARED_PREFERENCES_NAME, MODE_PRIVATE);
+        editor = sharedPreferences.edit();
         if (cityName != null){
-            HomePageFragment homePageFragment = new HomePageFragment();
+            ViewPagerFragment homePageFragment = new ViewPagerFragment();
             FragmentTransaction transaction = fragmentManager.beginTransaction();
             transaction.replace(R.id.content, homePageFragment);
             transaction.commit();
+            //appten çıkıp girildiğinde de son seçileni getirmesi için sharedpref'e kaydediyoruz.
+            editor.putString("cityName", selectedCity.getValue());
+            editor.apply();
             getWeather(cityName);
         }else{
             Toast.makeText(context, "Lütfen şehir seçiniz.", Toast.LENGTH_SHORT).show();
@@ -144,8 +161,8 @@ public class ResponseViewModel extends ViewModel {
             return null;
         }
 
+        //citylist e tüm şehirleri ekliyoruz
             ArrayList<CityListModel> yourArray = new Gson().fromJson(json, new TypeToken<List<CityListModel>>(){}.getType());
-
             cityList.setValue(yourArray);
             for (int i = 0;i<yourArray.size();i++){
                 if (yourArray.get(i).getName().equals("Izmir")){
@@ -205,7 +222,7 @@ public class ResponseViewModel extends ViewModel {
     public void bottomMenuClick(String pageName) {
         if (pageName != null){
             if (pageName.equals("home")){
-                HomePageFragment homePageFragment = new HomePageFragment();
+                ViewPagerFragment homePageFragment = new ViewPagerFragment();
                 FragmentTransaction transaction = fragmentManager.beginTransaction();
                 transaction.replace(R.id.content, homePageFragment);
                 transaction.commit();
